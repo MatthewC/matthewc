@@ -2,7 +2,7 @@
 
 ### Hello!
 
-> &nbsp; I'm someone who is passionate about **GNU/Linux** and likes to **write code**.
+> &nbsp; I'm someone who is passionate about **Computer Systems** and likes to **write code**.
 
 <br><br>
 
