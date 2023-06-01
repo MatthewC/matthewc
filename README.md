@@ -12,7 +12,7 @@
 - :mailbox: &nbsp;Email me anything via email at **[me _(at)_ matc _(dot)_ io]**
 - :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/matthew-correa)**
 
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+<h2 align="left">Favorite Tech</h2>
 
 > Tools, languages, and other things that I like to work with.
 
@@ -43,7 +43,7 @@
       <br>Python
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
+      <a href="https://swift.org" >
         <img src="./img/swift.svg" width="48" height="48" alt="Swift" />
       </a>
       <br>Swift
