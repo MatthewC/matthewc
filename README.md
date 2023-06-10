@@ -6,7 +6,7 @@
 
 <br><br>
 
-- :office: &nbsp;I'm currently seeing internships as a **[Software Developer]**
+- :office: &nbsp;I'm currently seeking internships as a **[Software Developer]**
 - :seedling: &nbsp;I’m currently working on my **[homelab]** and my **[rust skills]**
 - :book: &nbsp;Learn more about me through my **[website](https://matc.io)**
 - :mailbox: &nbsp;Email me anything via email at **[me _(at)_ matc _(dot)_ io]**
